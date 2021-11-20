@@ -1,9 +1,9 @@
 # Finerenone-Model
 
 
+This repository contains:
 
-## Repository files
-
+a PK-Sim snapshot (*.json) file of the current PBPK model
 
 
 ## Code of conduct
