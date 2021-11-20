@@ -1,5 +1,4 @@
 # Finerenone-Model
-coming soon!!
 
 
 
