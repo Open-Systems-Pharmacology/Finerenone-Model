@@ -16,5 +16,5 @@ We encourage contribution to the Open Systems Pharmacology community. Before get
 The model code is distributed under the [GPLv2 License](https://github.com/Open-Systems-Pharmacology/Suite/blob/develop/LICENSE).
 
 ## Reference
-
+Wendl T, Frechen S, Gerisch M, Heinig R, Eissing T. Physiologically-based pharmacokinetic modeling to predict CYP3A4-mediated drug-drug interactions of finerenone. CPT Pharmacometrics Syst Pharmacol. 2021 Nov 15. doi: 10.1002/psp4.12746. PMID: 34783193.
 
